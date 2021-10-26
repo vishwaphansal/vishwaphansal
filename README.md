@@ -1,6 +1,19 @@
-I am a full Stack developer
-<h1 align="center">Hi 👋, I'm Vishwa</h1>
-<h3 align="center">A passionate Fullstack developer</h3>
+<h3 align="center">
+  Welcome to Vishwa Phansal's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<p align="center">
+  <a href="https://github.com/vishwaphansal7/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Web%20and%20App%20Developer;Self-taught%20UI%2FUX%20Designer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=440&height=45&color=8A2BE2&vCenter=true&size=22"></a>
+</p>
+
+![Profile views](https://gpvc.arturio.dev/vishwaphansal7)
+
+
+## 📫 How to reach me:
+
+  [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/rpg19952/)  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/vishwap026)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/phansalv)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/vishwaphansal7/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/vishwap/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/vishwa_codes/)  &nbsp; <a href="mailto:vishwaphansal7@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwaphansal&label=Profile%20views&color=0e75b6&style=flat" alt="vishwaphansal" /> </p>
 
